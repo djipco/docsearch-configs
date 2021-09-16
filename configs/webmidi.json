@@ -7,8 +7,6 @@
   "sitemap_alternate_links": true,
   "stop_urls": [],
   
-  
-  
   "start_urls": [
     "https://djipco.github.io/webmidi/",
     {
